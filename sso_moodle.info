@@ -1,0 +1,16 @@
+; Module developed by Projecte Ictineo (www.projecteictineo.com)
+; Copyright 2012 Projecte Ictineo under GPLv3
+
+name = SSO to Moodle 2 
+description = Manages the display of online help.
+package = Moodle
+version = 0.1
+core = 7.x
+files[] = 
+
+; Information added by drupal.org packaging script on 2011-12-05
+version = "7.10"
+project = "drupal"
+datestamp = "1323125439"
+
+configure = admin/config/content/sso_moodle
